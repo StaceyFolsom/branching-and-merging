@@ -1,4 +1,9 @@
-body{
-
-background-color: orange;
+h2 {
+    color: turquoise;
 }
+
+body {
+  font-size: 30px;
+  background-color: green;
+}
+
